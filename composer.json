@@ -3,10 +3,10 @@
     "description": "laravel composer demo",
     "type": "library",
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.6"
     },
     "require-dev": {
-        "php": ">=5.4"
+        "php": ">=5.6"
     },
     "license": "MIT",
     "authors": [
