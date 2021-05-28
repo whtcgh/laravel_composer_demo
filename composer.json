@@ -2,12 +2,6 @@
     "name": "whtcgh/laravel_composer_demo",
     "description": "laravel composer demo",
     "type": "library",
-    "require": {
-        "php": ">=5.6"
-    },
-    "require-dev": {
-        "php": ">=5.6"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -15,5 +9,11 @@
             "email": "2359092648@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "require-dev": {
+        "php": ">=5.6"
+    }
 }
